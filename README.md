@@ -1,3 +1,5 @@
+This is archived, please use https://github.com/f1shl3gs/roxy instead
+
 # clash-routeros
 Clash container for RouterOS
 
